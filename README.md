@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raifazhar
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web developing and game development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on web
 
